@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main ( char *argc,char **argv)
+int main ( )
 {
 
 }
